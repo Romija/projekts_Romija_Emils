@@ -1,0 +1,2 @@
+class Produkts:
+    def
