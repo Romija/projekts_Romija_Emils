@@ -1,2 +1,4 @@
 class Produkts:
-    def __init ()
+    def __init ():
+
+        
